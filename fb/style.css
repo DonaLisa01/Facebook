@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-block{
+    background-color: #3b5998;
+    height: 70px;
+}
+.logo{
+ float: left;
+ height: 70px;
+
+
+}
+.logo img{
+    height:100%;
+    padding-left: 40px;
+  
+   
+}
+.login-content{
+ padding-left: 900px;
+ }
+.email{
+padding-top: 10px;
+float: left;
+color: #fff;
+}
+.email label{
+    font-size: small;
+}
+.email input{
+height: 20px;
+width: 140px;
+
+}
+.password{
+    padding-top: 10px;
+    float: left;
+    padding-left: 20px;
+    color: #fff;
+    }
+    .password label{
+        font-size: small;
+       
+    }
+    .password input{
+    height: 20px;
+    width: 140px;
+    }
+    .password a  {
+       font-style: normal;color: #fff; 
+       font-size: small;
+      
+    }
+.login-button{
+    padding : 25px;
+
+    float:left;
+}
+.login-button input{
+    background-color: #365494 ;
+    color: #fff;
+    height: 25px;
+    width:60px;
+    border-bottom: 1px solid   #122041;
+ 
+}
+
+   
+
+
+
+.facebook-connect h2{
+
+   margin-left: 20px;
+   margin-right: 250px;
+    font-weight:bolder;
+    float: left;
+    padding-left:20px ;
+    padding-top: 40px;
+    color: #123075;
+   
+}
+.facebook-connect img{
+   padding-top: 20px;
+    padding-left: 20px;
+}
+
+.create-account{
+    width:45%;
+    position: absolute;
+    top: 16%;
+    left: 56%;
+}
+.facebook-connect{
+    width:55%;
+    left:0%;
+    position:absolute
+
+}
+.facebook-connect img{
+    width:620px 
+}
+.account input {
+   margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 2px;
+    height: 30px;
+    
+
+
+}
+.birthday{
+    text-decoration: none;
+   display: inline-block;
+   width:150px;
+}
+.gender{
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-left: 3px;
+    padding-right: 10px;
+}
+.submit{
+    background-color: green;
+    color: #fff;
+   
+    text-align: center;
+    width:200px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom:10px ;
+    height: 40px;
+    border-radius: 5px;
+}
+.b{
+    background: linear-gradient(rgb(241, 239, 239), #8b9dc3 );
+    height: 560px;
+    width:1350px;
+}
